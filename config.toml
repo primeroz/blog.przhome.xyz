@@ -1,0 +1,8 @@
+baseURL = 'http://blog.przhome.xyz/'
+languageCode = 'en-us'
+title = 'przhome.xyz'
+theme = 'lightbi-hugo'
+
+[Params]
+    useHLJS = true
+    selfHosted = true
