@@ -5,4 +5,5 @@ theme = 'lightbi-hugo'
 
 [Params]
     useHLJS = true
-    selfHosted = true
+    # Do i need to upload those assets in the assets directory here ? 
+    selfHosted = false
