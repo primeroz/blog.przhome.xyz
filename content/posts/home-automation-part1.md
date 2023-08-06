@@ -5,7 +5,6 @@ tags: ["home-automation", "zigbee"]
 image: "img/posts/home-automation-part1/banner.jpg"
 description: "Overview of my Home Automation setup"
 featured: true
-draft: true
 ---
 
 ## Introduction
