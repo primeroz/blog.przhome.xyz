@@ -2,7 +2,7 @@
 title: "Home Automation - Part1"
 date: 2023-08-05T18:56:10+02:00
 tags: ["home-automation", "zigbee"]
-image: "img/posts/home-automation-part1/banner.jpg"
+image: "/img/posts/home-automation-part1/banner.jpg"
 description: "Overview of my Home Automation setup"
 featured: true
 ---
